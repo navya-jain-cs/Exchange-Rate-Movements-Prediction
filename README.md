@@ -65,9 +65,6 @@ The data for this project was sourced from a combination of real-time APIs and l
 | XGBoost      | 1.5384 | 0.0116 |
 | LSTM         | 0.0251 | 0.0156 |
 
-**Best Model:** [Insert best-performing model based on evaluation metrics]
-
-**Findings:** [Summarize key observations, such as trends captured by models, strengths, and weaknesses.]
 
 ## Instructions to Run the Code
 
